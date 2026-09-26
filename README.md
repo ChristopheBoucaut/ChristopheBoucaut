@@ -1,16 +1,83 @@
-## Hi there 👋
+# Christophe Boucaut
 
-<!--
-**ChristopheBoucaut/ChristopheBoucaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Backend Developer · PHP / Symfony · Elasticsearch · AWS**
 
-Here are some ideas to get you started:
+I design and build reliable backend systems, APIs and data-driven applications, with a strong focus on **software architecture, search, testing and maintainability**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in the intersection between **backend engineering and AI**, and currently exploring **LLMs, AI agents and agentic workflows**.
+
+[🌐 Website](https://christophe-boucaut.fr/) · [💼 LinkedIn](https://www.linkedin.com/)
+
+---
+
+## 👋 About me
+
+I'm a backend developer with a strong focus on the PHP ecosystem and Symfony.
+
+Over the years, I've worked on systems involving:
+
+* API design and backend architecture
+* Search and data-intensive applications
+* Distributed and asynchronous systems
+* Clean Architecture and Domain-Driven Design
+* Automated testing and code quality
+* Cloud and serverless architectures
+* Developer tooling and automation
+
+I like understanding **why** a system is built a certain way, not just how to implement it.
+
+---
+
+## 🧰 Tech stack
+
+### Core
+
+`PHP` · `Symfony` · `Elasticsearch` · `PostgreSQL`
+
+### Architecture & engineering
+
+`Clean Architecture` · `DDD` · `REST APIs` · `Event-driven systems` · `Async processing` · `Testing`
+
+### Ecosystem
+
+`Docker` · `RabbitMQ` · `Linux` · `TypeScript`
+
+### Currently exploring
+
+🔧 **Agentic workflows**
+🔎 **AI-powered search**
+⚙️ **Developer automation**
+
+---
+
+## 🚀 Featured projects
+
+### [Padi PHP](https://github.com/ChristopheBoucaut/padi-php)
+
+A PHP library providing reusable patterns and utilities for projects following **Clean Architecture** principles.
+
+**PHP · Architecture · Design Patterns · PHPUnit · Docker**
+
+→ [View repository](https://github.com/ChristopheBoucaut/padi-php)
+
+---
+
+### [Timeline of a Day](https://github.com/ChristopheBoucaut/timeline_of_day)
+
+A lightweight application for organizing and visualizing events throughout a day.
+
+A personal project exploring product design, frontend development and turning a concrete problem into a simple application.
+
+---
+
+## 🧠 What I'm interested in
+
+Beyond specific technologies, I'm particularly interested in:
+
+* How to design software that remains maintainable as it grows
+* The trade-offs behind architectural decisions
+* Search and information retrieval
+* Distributed and asynchronous systems
+* Developer experience and automation
+* How AI and LLMs are changing software development
+* Building useful **AI agents and agentic systems**
