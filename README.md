@@ -44,9 +44,9 @@ I like understanding **why** a system is built a certain way, not just how to im
 
 ### Currently exploring
 
-🔧 **Agentic workflows**
-🔎 **AI-powered search**
-⚙️ **Developer automation**
+* 🔧 **Agentic workflows**
+* 🔎 **AI-powered search**
+* ⚙️ **Developer automation**
 
 ---
 
@@ -67,17 +67,3 @@ A PHP library providing reusable patterns and utilities for projects following *
 A lightweight application for organizing and visualizing events throughout a day.
 
 A personal project exploring product design, frontend development and turning a concrete problem into a simple application.
-
----
-
-## 🧠 What I'm interested in
-
-Beyond specific technologies, I'm particularly interested in:
-
-* How to design software that remains maintainable as it grows
-* The trade-offs behind architectural decisions
-* Search and information retrieval
-* Distributed and asynchronous systems
-* Developer experience and automation
-* How AI and LLMs are changing software development
-* Building useful **AI agents and agentic systems**
